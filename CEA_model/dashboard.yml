@@ -1,0 +1,8 @@
+- layout: row
+  name: Default Dashboard
+  plots:
+  - category: demand
+    parameters:
+      building: B1000
+      scenario-name: 2030_Baseline
+    plot: energy-balance
