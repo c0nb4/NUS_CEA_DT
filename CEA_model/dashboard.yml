@@ -4,5 +4,10 @@
   - category: demand
     parameters:
       building: B1000
+      scenario-name: 2030_ChangedTemp
+    plot: energy-balance
+  - category: demand
+    parameters:
+      building: B1000
       scenario-name: 2030_Baseline
     plot: energy-balance
