@@ -4,4 +4,4 @@ cea.ipynb
 **/outputs/data/solar-radiation
 **/outputs/data/thermal-network
 /CEA_model/2030_ChangedTemp/inputs/networks
-CEA_model/2030_ChangedTemp/outputs
+CEA_model/2030_ChangedTemp/outputs/thermal-network
