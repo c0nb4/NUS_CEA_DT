@@ -1,1 +1,7 @@
 .cache
+/venv
+cea.ipynb
+/CEA_model/2030_Baseline
+**/outputs/data/solar-radiation
+**/outputs/data/thermal-network
+/CEA_model/2030_ChangedTemp/inputs/networks
